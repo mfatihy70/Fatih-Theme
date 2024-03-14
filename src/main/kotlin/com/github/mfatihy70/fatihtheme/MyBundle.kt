@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.mfatihy70.fatihtheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
